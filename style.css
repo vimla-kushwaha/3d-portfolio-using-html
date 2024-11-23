@@ -155,3 +155,8 @@ img{
     color: var(--white-color);
 
 }
+
+.book-page.page-right{
+    position: absolute;
+    right:0;
+}
